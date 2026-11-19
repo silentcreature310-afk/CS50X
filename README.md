@@ -25,3 +25,10 @@ I'm a Computer Science student exploring programming, problem-solving, and softw
 - Developing problem-solving skills
 
 *This repository documents my progress, practice exercises, and projects as I learn.*
+## Project Progress
+
+### Week 0 - Scratch
+
+- Project: Cyber Escape
+- Status: In Progress
+- File: Week 0 - Scratch/cyber-escape.sb3
